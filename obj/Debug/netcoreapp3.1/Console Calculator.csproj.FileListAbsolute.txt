@@ -1,0 +1,14 @@
+C:\Users\melqui\OneDrive\Escritorio\C# Projects\Console Calculator\Console Calculator\bin\Debug\netcoreapp3.1\Console Calculator.exe
+C:\Users\melqui\OneDrive\Escritorio\C# Projects\Console Calculator\Console Calculator\bin\Debug\netcoreapp3.1\Console Calculator.deps.json
+C:\Users\melqui\OneDrive\Escritorio\C# Projects\Console Calculator\Console Calculator\bin\Debug\netcoreapp3.1\Console Calculator.runtimeconfig.json
+C:\Users\melqui\OneDrive\Escritorio\C# Projects\Console Calculator\Console Calculator\bin\Debug\netcoreapp3.1\Console Calculator.runtimeconfig.dev.json
+C:\Users\melqui\OneDrive\Escritorio\C# Projects\Console Calculator\Console Calculator\bin\Debug\netcoreapp3.1\Console Calculator.dll
+C:\Users\melqui\OneDrive\Escritorio\C# Projects\Console Calculator\Console Calculator\bin\Debug\netcoreapp3.1\Console Calculator.pdb
+C:\Users\melqui\OneDrive\Escritorio\C# Projects\Console Calculator\Console Calculator\obj\Debug\netcoreapp3.1\Console Calculator.csproj.AssemblyReference.cache
+C:\Users\melqui\OneDrive\Escritorio\C# Projects\Console Calculator\Console Calculator\obj\Debug\netcoreapp3.1\Console Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melqui\OneDrive\Escritorio\C# Projects\Console Calculator\Console Calculator\obj\Debug\netcoreapp3.1\Console Calculator.AssemblyInfoInputs.cache
+C:\Users\melqui\OneDrive\Escritorio\C# Projects\Console Calculator\Console Calculator\obj\Debug\netcoreapp3.1\Console Calculator.AssemblyInfo.cs
+C:\Users\melqui\OneDrive\Escritorio\C# Projects\Console Calculator\Console Calculator\obj\Debug\netcoreapp3.1\Console Calculator.csproj.CoreCompileInputs.cache
+C:\Users\melqui\OneDrive\Escritorio\C# Projects\Console Calculator\Console Calculator\obj\Debug\netcoreapp3.1\Console Calculator.dll
+C:\Users\melqui\OneDrive\Escritorio\C# Projects\Console Calculator\Console Calculator\obj\Debug\netcoreapp3.1\Console Calculator.pdb
+C:\Users\melqui\OneDrive\Escritorio\C# Projects\Console Calculator\Console Calculator\obj\Debug\netcoreapp3.1\Console Calculator.genruntimeconfig.cache

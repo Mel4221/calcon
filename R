@@ -1,0 +1,5 @@
+#!/bin/bash
+
+sudo cp calcon.exe /usr/local/lib/cal/calcon.exe
+echo "Saved At /usr/local/lib/cal/calcon.exe";
+say "Saved-Sucessfully"
