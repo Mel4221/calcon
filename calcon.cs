@@ -65,7 +65,7 @@ namespace Console_Calculator
          
           }
 
-        
+        	Console.ResetColor(); 
         }
 
 
